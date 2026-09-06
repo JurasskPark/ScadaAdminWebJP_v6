@@ -23,3 +23,9 @@ project files, editor settings and configuration deployment.
 
 [English forum](https://forum.rapidscada.org/?topic=scadaadminwebjp) ·
 [Русский форум](https://forum.rapidscada.ru/?topic=scadaadminwebjp)
+
+## Screenshots / Скриншоты
+
+![ScadaAdminWebJP](https://raw.githubusercontent.com/JurasskPark/ScadaAdminWebJP_v6/refs/heads/master/source/ScadaAdminWebJP_001.png)
+![ScadaAdminWebJP](https://raw.githubusercontent.com/JurasskPark/ScadaAdminWebJP_v6/refs/heads/master/source/ScadaAdminWebJP_002.png)
+![ScadaAdminWebJP](https://raw.githubusercontent.com/JurasskPark/ScadaAdminWebJP_v6/refs/heads/master/source/ScadaAdminWebJP_003.png)
