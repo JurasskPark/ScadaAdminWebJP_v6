@@ -25,7 +25,7 @@ its scope.
 
 ## First steps
 
-1. Open the address of your ScadaAdminWebJP installation and sign in with your account.
+1. Open the address of your ScadaAdminWebJP installation and sign in with username `admin` and password `scada`.
 2. Click **Open project** and select the required project.
 3. Check its name and path in the top bar.
 4. In the tree, open **Configuration Database → Primary Tables → Devices**.
@@ -33,18 +33,5 @@ its scope.
 6. After editing, click **Validate**, then **Save**.
 7. Before uploading to an instance, save all changed tabs and check the
    [deployment profile](deployment.md).
-
-## About the illustrations
-
-Screenshots were captured from the running editor with English localization
-and the light `default` theme. Larger forms are cropped to the relevant area.
-Captions above the screenshots belong to the documentation, not to the application UI.
-
-`HelloWorld`, `Simulator`, `Default Profile`, paths and filenames are sample
-project data. Changing the interface language does not rename user data.
-Your projects, tables and available commands may differ from the examples.
-
-The screenshots were checked on 6 September 2026. Use **Русский** at the top
-of any section to open the corresponding Russian instructions and screenshots.
 
 **Next:** [Opening and creating projects](projects.md).

@@ -15,14 +15,6 @@ project files, editor settings and configuration deployment.
 | English | **[Open the English user guide](en/README.md)** |
 | Русский | **[Открыть руководство на русском](ru/README.md)** |
 
-Each guide uses screenshots captured in its own interface language. The guides
-cover the application; operation of individual drivers and plugins is outside
-their scope.
-
-Каждое руководство содержит снимки интерфейса на соответствующем языке.
-Описывается работа приложения; работа отдельных драйверов и плагинов в справку
-не входит.
-
 ## Downloads / Загрузка
 
 [Latest release / Последний выпуск](https://github.com/JurasskPark/ScadaAdminWebJP_v6/releases/latest)

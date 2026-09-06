@@ -6,8 +6,7 @@
 
 Open the browser address configured for your ScadaAdminWebJP installation.
 Use the Web Administrator address: the operator's Webstation may use a different
-address. Enter the username and password supplied by your administrator and
-click **Sign in**.
+address. Enter username `admin` and password `scada`, then click **Sign in**.
 
 If the page is unavailable, first check the address and whether the application
 is running on the server. If the login form reports an error, check your keyboard
